@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am a 33-year-old student of Computer Science at WSB Merito University Warsaw. My interests: Deep Learning/AI/ML, Python, Windows. My passions: PlayStation, physical training, cooking, and learning.
+I am a 33-year-old Computer Science student at WSB Merito University Warsaw. My interests: Artificial Intelligence/Deep Learning/ML, Python, Cloud&Ops. My passions: PlayStation, physical training, cooking, and learning.
 
-🌱 I’m currently learning Artificial Intelligence, Python, Deep Learning, Machine Learning, Microsoft Windows, Kali Linux, LLMs, Unity.
+🌱I’m currently learning Artificial Intelligence, Python, Deep Learning, Microsoft Azure, Microsoft Windows, Kali Linux, AI tools, LLMs, Machine Learning.
