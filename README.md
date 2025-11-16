@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Specialize in Artificial Intelligence, Deep Learning, Python, Cloud&Ops. Student at Merito University Warsaw, also interested in PlayStation, physical training, cooking, and learning. Focused in GenAI.
+Specialize: AI * Generative AI * Deep Learning * Python * CloudOps. Also: Learner * Gamer * Chef * Health Enthusiast. Focus: GenAI.
 
-LangChain, GenAI, Microsoft Azure, Deep Learning, Python, Machine Learning, Explainable AI, Prompt Engineering, Microsoft Windows, Kali Linux, AI Ethics, AI Tools
+LangChain, OpenAI, Mistral AI, Qwen, Python, Deep Learning, Machine Learning, Microsoft Azure, Microsoft Windows, Kali Linux, Explainable AI
