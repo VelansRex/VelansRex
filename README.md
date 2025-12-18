@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Specialize: AI * Generative AI * Deep Learning * Python * CloudOps. Also: Learner * Gamer * Chef * Health Enthusiast. Focus: GenAI.
+Generative AI * Deep Learning * Python * Microsoft Azure * Chef * Paris Enthusiast * Gamer * Learner
 
-LangChain, OpenAI, Mistral AI, Qwen, Python, Deep Learning, Machine Learning, Microsoft Azure, Microsoft Windows, Kali Linux, Explainable AI
+LangChain, OpenAI, Mistral AI, Qwen, Python, Deep Learning, Microsoft Azure, Microsoft Windows, Kali Linux, Explainable AI
