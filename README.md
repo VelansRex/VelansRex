@@ -2,4 +2,4 @@
 
 Generative AI * Deep Learning * Python * Microsoft Azure * Chef * Paris Enthusiast * Gamer * Learner
 
-LangChain, OpenAI, Mistral AI, Qwen, Python, Deep Learning, Microsoft Azure, Microsoft Windows, Kali Linux, Explainable AI
+LangChain, OpenAI, Mistral, Qwen, Python, Deep Learning, Microsoft Azure, Microsoft Windows, Kali Linux, Explainable AI
