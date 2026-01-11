@@ -4,7 +4,7 @@ Generative AI * Deep Learning  * Python * Azure * Paris Enthusiast * Chef * Lear
 
 Generative AI (LangChain|Models)
 Artificial Intelligence (OpenAI|Mistral|Qwen)
-Deep Learning (Neural Networks | Keras)
+Deep Learning (Neural Networks|Keras)
 Machine Learning (PyTorch|Scikit-Learn)
 Microsoft (Azure Services|Windows)
 Linux (Kali Linux)
