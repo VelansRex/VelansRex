@@ -1,5 +1,12 @@
 ### Hi there 👋
 
-Generative AI * Deep Learning * Python * Microsoft Azure * Chef * Paris Enthusiast * Gamer * Learner
+Generative AI * Deep Learning  * Python * Azure * Paris Enthusiast * Chef * Learner * Video Games
 
-LangChain, OpenAI, Mistral, Qwen, Python, Deep Learning, Microsoft Azure, Microsoft Windows, Kali Linux, Explainable AI
+Generative AI (LangChain|Models)
+Artificial Intelligence (OpenAI|Mistral|Qwen)
+Deep Learning (Neural Networks | Keras)
+Machine Learning (PyTorch|Scikit-Learn)
+Microsoft (Azure Services|Windows)
+Linux (Kali Linux)
+Python (Testing|Git) 
+DataCamp|Microsoft Learn|CodeSignal
